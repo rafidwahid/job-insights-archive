@@ -1,0 +1,63 @@
+About the job
+Field Nation is a leading onsite work marketplace seeking creative and skilled developers to join our global engineering team. Our mission is to design and develop technology that improves the lives of its users while providing an exceptionally high level of service.
+
+We are looking for experienced developers who want to be part of a fast-paced, dynamic environment, where everyone’s opinions and efforts are valued. We hire outstanding professionals and allow them to thrive in a collaborative atmosphere that values learning growth, and hard work.
+
+If you have the desire to be a part of an exciting, challenging, and growing team, and if you are passionate about software development, please apply below
+
+What You’ll Do
+
+Work as part of a global team to build React Native iOS / Android applications for Field Nation’s marketplace users.
+Building reusable components and libraries for future use. 
+Translating designs and wireframes into high-quality code.
+Work with native modules when required.
+Work on the backend, built with Node.js exposed via REST APIs when required.
+Build and maintain the frontend using React, React Native, and Redux for both web and mobile applications.
+Collaborate closely with the engineering team, Product Management, UX, and our customers to develop and deliver impactful features.
+Assist in preparing technical specifications as a team.
+
+What You’ll Need
+
+2+ years of professional software development experience.1+ years of experience in react-native and reactJS.
+Strong understanding of TyepScript and ES6.
+Familiarity with the Expo is a plus.
+Backend web experience with languages such as NodeJS is a plus. Knowledge of SQL – MySQL specifically.
+Ability to write clean, standards-compliant HTML and CSS.
+Preprocessor experience (LESS/SASS) is a plus.
+Strong focus and experience with Unit Tests.Familiarity with the Git version control system.
+Knowledge of Linux or other Unix-based systems (Ubuntu/Debian is a plus).
+Experience with Web Services-based solutions (REST specifically).
+Experience with docker/Kubernetes is a plus.
+We look for people who can tie together technologies to solve enormous problems.
+Strong written and verbal communication skills.
+Ability to work well with others as part of a team and across teams.
+Ability to break down more significant initiatives into manageable pieces.
+Experience working with offshore teams is a plus.
+Willingness to work from 1 PM to 10 PM BD time.
+
+Education
+
+B.Sc. / M.Sc. in Computer Science & Engineering from any reputed University or equivalent practical experience.
+
+Salary & Benefits
+
+Competitive salary based on experience and qualification.
+Gratuity benefit.
+Medical Insurance.
+Field Nation LLC Performance Reward. 
+Festival Bonus.
+Gym Membership.
+Career Development Budget.
+Leave Encashment. 
+Lunch/Dinner Fully Subsidized. 
+Sound work-life balance - Regular working hours: 8 hours/day, 5 days a week.
+Friendly work environment.
+Flexible leave/vacation policy. 
+A great learning opportunity.
+The opportunity to work with cross-cultural teams with the US.
+Annual performance evaluation and increment.
+Employee Transportation: Drop off available. .
+
+Salary Range
+
+80-120k
