@@ -1,0 +1,67 @@
+About the job
+We are looking for a passionate software quality assurance lead who will be leading a team of software QA engineers. Ideal candidates should be capable of defining and implementing test strategy, managing test delivery, ensuring the testing meets business requirements and quality. The candidate should provide technical guidance and contribute to the team's growth.
+
+Application Deadline
+
+December 31, 2023
+
+Department
+
+Engineering
+
+Employment Type
+
+Permanent - Full Time
+
+Location
+
+Dhaka
+
+Workplace type
+
+Hybrid
+
+Compensation
+
+৳105,000 - ৳140,000 / month
+
+Responsibilities
+
+ Key Responsibilities 
+
+ Lead a team of software QA Engineers in the creation of high quality software within agreed project deadlines.
+ Analyze the requirements and understand the deliverables.
+ Determine and define test strategies and test plans for all sorts of applications.
+ Prepare test cases, test data, test environment, checklists, traceability matrix as per requirements.
+ Execute tests or write test code to verify enhancements and bug fixes.
+ Report bugs/defects with appropriate details.
+ Prepare all sorts of test documents (test plan, test report, release notes, etc.).
+ Ensure that test standards, policies and procedures are adhered to.
+ Collaborate with team members and ensure knowledge transfer.
+ Work closely with mentors, peers, and subordinates to fully understand the business process and requirements.
+ Ensure that projects are accurately estimated and delivered to schedule.
+ Actively contribute to the process of continual improvement, with regard to self, team and systems.
+ Assume a high level of ownership of all work by members of the team.
+ Train and integrate new team members and proactively support the continued development of existing team members.
+
+Skills
+
+ Skills, Knowledge and Expertise 
+
+ B.Sc or M.Sc in Computer Science/Engineering or equivalent.
+ Proven experience in working with test cases, test data, test environment, checklists, traceability matrix as per requirements.
+ Must have understanding of test documents (test plan, test report, release notes, etc.).
+ Must have a good understanding on how to report bugs/defects with appropriate details.
+ Must have experience with any relational database like MSSQL, MySQL, etc.
+ Must have strong communication skills in English, both written and spoken.
+ Must have very strong analysis and synthesis skills.
+ Must be able to learn new technologies, tools, and techniques quickly and with minimal supervision.
+ Must be proactive and able to execute tasks efficiently.
+ Experience with automation tools like Selenium, Robot Framework, TestNG, AutoIT, etc will be a plus.
+ Familiarity with applications, such as MS Visio, MSTest/NUnit, Subversion, Source control (GIT, SVN), Bug Tracker, load testing tool, screen capture tool will be plus.
+
+Requirements
+
+ Experience Requirements 
+
+ 4+ years of experience in software quality assurance.
